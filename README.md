@@ -28,7 +28,7 @@ By the end, I aim to have **4 solid projects** demonstrating real-world CV appli
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/banner_placeholder.gif" alt="Computer Vision Banner" width="700"/>
+  <img src="https:/computervision.png" alt="Computer Vision Banner" width="700"/>
 </p>
 
 ---
